@@ -1,6 +1,7 @@
 # lucky.sh
 lucky shell script. turns any shell script lucky. the more scripts you put it in, the luckier it gets. also repels internet ghosts.
 
+```
 # place this code in your shell files
 # it's a good idea
 # maybe you already did
@@ -65,5 +66,5 @@ tput sgr0;
 
 
 
-
                                                                             # made by aria "not-an-internet-ghost" bennett
+```
